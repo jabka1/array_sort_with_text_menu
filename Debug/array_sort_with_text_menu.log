@@ -1,0 +1,8 @@
+﻿  array_sort_with_text_menu.cpp
+  generate_array.cpp
+A:\array_sort_with_text_menu\generate_array.cpp(7,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  print_array.cpp
+  print_sort_array.cpp
+  sort_array.cpp
+  Создание кода...
+  array_sort_with_text_menu.vcxproj -> A:\array_sort_with_text_menu\Debug\array_sort_with_text_menu.exe
